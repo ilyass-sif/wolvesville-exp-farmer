@@ -1,3 +1,7 @@
+# System Dependencies (Required for headless browser on VPS/headless systems):
+# Install via apt: sudo apt install -y xvfb chromium-browser
+# (Or run the included setup_vps.sh script)
+
 websockets>=12.0
 aiohttp>=3.9.0
 nodriver>=0.50.0
