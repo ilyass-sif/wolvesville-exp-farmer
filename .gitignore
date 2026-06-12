@@ -1,0 +1,22 @@
+# Credentials
+config.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local runtime state / logs
+game_logs/
+response_debug
+live_belief.json
+live_state.json
+parsed_state.json
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
